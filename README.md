@@ -1,3 +1,4 @@
 # Titanic-project
-Titanic tragedy ml project
-Authoe - Rhythm Arora
+Titanic tragedy Ml project.
+<br>
+Author - Rhythm Arora
